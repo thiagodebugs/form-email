@@ -10,7 +10,7 @@ if (isset($_POST["email"]) && !empty($_POST["email"])) {
     $body = "Nome: ".$name.
             "\nEmail: ".$email.
             "\nMensagem: ".$message;
-    $header = "From: Remetente <remetente@gmail.com>"; // Endereço de e-mail que sera exibido como 
+    $header = "From: Remetente <remetente@gmail.com>"; // Endereço de e-mail que sera exibido como remetente
 
     if (mail($to, $subject, $body, $header)) {
         echo "  <script>
