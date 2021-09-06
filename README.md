@@ -1,7 +1,7 @@
 <h1>Form E-mail</h1>
 <p>Este projeto é bem simples e objetivo, se trata de um formulários que captura as informações preenchidas e realiza o envio destas para um e-mail predefinido.</p>
 
----
+![alt](example.jpg)
 
 <h3>Como utilizar?</h3>
 <ol>
@@ -19,6 +19,7 @@ $header = "From: Remetente < remetente@gmail.com>";
 </ol>
 
 ---
+
 <h3>FAQ</h3>
 <ul>
     <li>Fiz o deploy porem não esta funcionado, e agora?
