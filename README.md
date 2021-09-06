@@ -1,7 +1,7 @@
 <h1>Form E-mail</h1>
 <p>Este projeto é bem simples e objetivo, se trata de um formulários que captura as informações preenchidas e realiza o envio destas para um e-mail predefinido.</p>
 
-![alt](example.jpg)
+![Example](example.jpg)
 
 <h3>Como utilizar?</h3>
 <ol>
