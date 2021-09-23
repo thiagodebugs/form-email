@@ -20,16 +20,9 @@ $header = "From: Remetente < remetente@gmail.com>";
 
 ---
 
-<h3>FAQ</h3>
-<ul>
-    <li>Fiz o deploy porem não esta funcionado, e agora?
-        <ul>
-            <li>
-                Verifique junto ao seu provedor de hospedagem se esta habilitado o envio de e-mail via código.
-            </li>
-            <li>Confirme os dados preenchidos se estão corretos.</li>
-            <li>Entre em contato <a href="mailto:thiagomendonca09@gmail.com.br">thiagomendonca09@gmail.com.br</a>.</li>
-        </ul>
-    </li>
-    
-</ul>
+## FAQ
+
+- Fiz o deploy porem não esta funcionado, e agora?
+  - Verifique junto ao seu provedor de hospedagem se esta habilitado o envio de e-mail via código.
+  - Confirme os dados preenchidos se estão corretos.</li>
+  - Entre em <a href="http://thiagodebugs.github.io/link-bio">contato</a>
