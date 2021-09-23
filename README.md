@@ -25,4 +25,4 @@ $header = "From: Remetente < remetente@gmail.com>";
 - Fiz o deploy porem não esta funcionado, e agora?
   - Verifique junto ao seu provedor de hospedagem se esta habilitado o envio de e-mail via código.
   - Confirme os dados preenchidos se estão corretos.</li>
-  - Entre em <a href="http://thiagodebugs.github.io/link-bio">contato</a>
+  - Entre em [contato](http://thiagodebugs.github.io/link-bio)
